@@ -3,6 +3,7 @@
 ## After using the code from lecture 135 in the course 
 
 my screen doesn't work at all.  I can switch between SignUp and Login but I can Login or Sign Up
+![0](https://user-images.githubusercontent.com/21030885/55535747-02787080-56f3-11e9-851d-a7e82405ff4d.jpg)
 
 ## I am having some errors
 
