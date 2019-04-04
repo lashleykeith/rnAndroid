@@ -1,5 +1,9 @@
 # rnAndroid
 
+## After using the code from lecture 135 in the course 
+
+my screen doesn't work at all.  I can switch between SignUp and Login but I can Login or Sign Up
+
 ## I am having some errors
 
 When I try to log in then I get this error (0, _index2.tryAuth) is not a function. (In'(0, _index2.tryAuth)(authData)', '(0, _index2.tryAuth)' is undefined). 
