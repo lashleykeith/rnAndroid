@@ -49,7 +49,7 @@ const startTabs = () => {
                     screen: "awesome-places.SideDrawer"
                 }
             },
-             appStyle: {
+            appStyle: {
                 tabBarSelectedButtonColor: "orange"
             },
         });
